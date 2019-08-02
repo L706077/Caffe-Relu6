@@ -1,7 +1,7 @@
 # Caffe-Relu6
 ---
-
-- [reference](https://github.com/RuiminChen/Caffe-MobileNetV2-ReLU6)
+- [reference1](https://blog.csdn.net/JR_Chan/article/details/94584068)
+- [reference2](https://github.com/RuiminChen/Caffe-MobileNetV2-ReLU6)
 
 ---
 ### Step 1.
